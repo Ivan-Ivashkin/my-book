@@ -5,6 +5,8 @@ title: Книжечка
 author: Кафедра
 logo: logo.png
 
+url: "https://ivan-ivashkin.github.io/my-book/"
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
